@@ -1,6 +1,6 @@
 ## Chatbot
 
-_I created a very simple chat bot based on serving food service and connected it to my previous dashboard_
+_**Third task:** Create a very simple food service chatbot and connect it to my previous dashboard._
 
 _I'm use tool **ibm watson** for this chatbot_
 
